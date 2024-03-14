@@ -10,8 +10,3 @@
 4. Execution: The code continuously loops to allow users to interact with the virtual assistant, executing the selected tasks based on user input until the user chooses to exit.
 The data flow diagram would illustrate the flow of data and control between various components.          
 
-In this diagram:
-- User interface interacts with the user, receiving input choices.
-- User input drives the control flow, selecting which data processing function to execute.
-- Data processing functions process the fashion product dataset based on the selected task.
-- Output displays the results or recommendations back to the user.
